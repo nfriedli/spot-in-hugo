@@ -1,1 +1,1 @@
-# spotin-hugo
+# Hugo for Spot in
